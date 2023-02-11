@@ -1,7 +1,7 @@
 # jetbot_with_jetson_nano
 Build a robot using the Jetson Nano and code with Jupyter Notebooks
 
-This repository includes my PowerPoint presentation, which describes the software libraries and components used, my Jupyter Notebooks, robot build photos, and a separate folder for my Collision Avoidance example. That folder includes a PowerPoint and videos of the JetBot attempting to stay on my table.
+This repository includes my PowerPoint presentation, which describes the software libraries and components used, my Jupyter Notebooks, robot build photos, and a separate folder for my Collision Avoidance example. That folder includes a PowerPoint and videos of the JetBot using maching vision and deep learning to (mostly) avoid falling off of my table.
 
 <h1>Project Goals</h1>
 <ul>
